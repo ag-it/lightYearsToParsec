@@ -26,6 +26,6 @@
     <rim:transitionEffect type="fadeOut" />
   </rim:loadingScreen>
 
-  <content src="light-years-to-parsec.html" />
+  <content src="index.html" />
 
 </widget>
